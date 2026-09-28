@@ -19,3 +19,6 @@ env/
 
 # Large raw data (re-downloadable from source; keep out of git)
 my-project/data/raw/HydroRivers.gpkg
+
+# Drop very large raw downloads here; auto-ignored so they never hit a push
+my-project/data/raw/large/
