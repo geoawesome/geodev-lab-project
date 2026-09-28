@@ -16,3 +16,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 env/
+
+# Large raw data (re-downloadable from source; keep out of git)
+my-project/data/raw/HydroRivers.gpkg
