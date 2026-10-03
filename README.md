@@ -64,3 +64,6 @@ The following are named in the brief but not yet in the repository:
 ## Status
 
 Project scaffolding, study-area boundaries and the OSM road and land-use layers are in place, with raw and reprojected copies. The satellite, terrain, rainfall, soil and population datasets, and the flood-mapping and exposure analysis, are still to come.
+
+## Month 2: development environment and early Python
+- Week 5: set up Python, VS Code and the terminal. hello.py runs.
