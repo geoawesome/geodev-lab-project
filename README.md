@@ -68,3 +68,4 @@ Project scaffolding, study-area boundaries and the OSM road and land-use layers 
 ## Month 2: development environment and early Python
 - Week 5: set up Python, VS Code and the terminal. hello.py runs.
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+- Week 7: Created a csv file, classified wards, analyzed them, deliberately broke the script and saw the error message.
